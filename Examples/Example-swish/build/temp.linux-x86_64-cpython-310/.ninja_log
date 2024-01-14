@@ -1,0 +1,12 @@
+# ninja log v5
+0	6	1704964941240103948	/home/nerf/datav/Tutorial/pybind11-Tutorial/Examples/Intro/swish/build/temp.linux-x86_64-cpython-310/swish/ext.o	8ce52244edc10899
+0	191	1704964941424097431	/home/nerf/datav/Tutorial/pybind11-Tutorial/Examples/Intro/swish/build/temp.linux-x86_64-cpython-310/swish/swish.o	2b16c2aa6a259af9
+0	6	1704965041000989299	/home/nerf/datav/Tutorial/pybind11-Tutorial/Examples/Intro/swish/build/temp.linux-x86_64-cpython-310/swish/ext.o	67ff571f6181f06d
+0	183	1704965041176984462	/home/nerf/datav/Tutorial/pybind11-Tutorial/Examples/Intro/swish/build/temp.linux-x86_64-cpython-310/swish/swish.o	a7a66b6f45b369a1
+0	178	1704965947344044899	/home/nerf/datav/Tutorial/pybind11-Tutorial/Examples/swish/build/temp.linux-x86_64-cpython-310/swish/swish.o	daef6ae8d2251b44
+0	8277	1704965955440102256	/home/nerf/datav/Tutorial/pybind11-Tutorial/Examples/swish/build/temp.linux-x86_64-cpython-310/swish/ext.o	893eba99ef685e04
+0	183	1704966315013295545	/home/nerf/datav/Tutorial/pybind11-Tutorial/Examples/Example-swish/build/temp.linux-x86_64-cpython-310/swish/swish.o	bf05e178a4609155
+0	5699	1704966320525297661	/home/nerf/datav/Tutorial/pybind11-Tutorial/Examples/Example-swish/build/temp.linux-x86_64-cpython-310/swish/ext.o	50dd10f9a8d4948c
+4	6013	1704968658281279616	/home/nerf/datav/Tutorial/pybind11-Tutorial/Examples/Example-swish/build/temp.linux-x86_64-cpython-310/swish/ext.o	50dd10f9a8d4948c
+4	18840	1704968671105306214	/home/nerf/datav/Tutorial/pybind11-Tutorial/Examples/Example-swish/build/temp.linux-x86_64-cpython-310/swish/swish.o	bf05e178a4609155
+4	10	1704968749065445598	/home/nerf/datav/Tutorial/pybind11-Tutorial/Examples/Example-swish/build/temp.linux-x86_64-cpython-310/swish/ext.o	50dd10f9a8d4948c
